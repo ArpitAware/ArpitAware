@@ -116,10 +116,16 @@ Expense tracking and financial visualization platform.
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitAware&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArpitAware&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://streak-stats.demolab.com?user=ArpitAware&theme=tokyonight" height="160" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArpitAware&layout=compact&theme=tokyonight" height="150" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitAware&layout=compact&theme=tokyonight&cache_seconds=1800" height="150" />
