@@ -254,37 +254,56 @@ AI-powered resume analysis and candidate intelligence system.
 ├───────────────────────────────────────────────┤
 │                                               │
 │  🤖 AI Agents & Agentic Workflows             │
-│  🧠 LLM Applications                          │
-│  🔎 RAG & Semantic Search                     │
-│  💬 AI Chatbots & Assistants                 │
-│  📚 Enterprise Knowledge Systems              │
-│  ⚙️ AI Automation                             │
-│  🎙️ Speech & Meeting Intelligence             │
-│  📄 Document Intelligence                     │
-│  🧑‍💼 AI Candidate Assessment                  │
-│  🚀 Scalable AI Backend Systems               │
+│  🧠 LLM Applications                           │
+│  🔎 RAG & Semantic Search                      │
+│  💬 AI Chatbots & Assistants                  │
+│  📚 Enterprise Knowledge Systems               │
+│  ⚙️ AI Automation                              │
+│  🎙️ Speech & Meeting Intelligence              │
+│  📄 Document Intelligence                      │
+│  🧑‍💼 AI Candidate Assessment                   │
+│  🚀 Scalable AI Backend Systems                │
 │                                               │
 └───────────────────────────────────────────────┘
-📊 GitHub Activity
-🤖 Building Generative AI & Agentic AI applications
-🧠 Exploring LLMs, RAG and AI Agents
-🐍 Developing AI backends with Python & FastAPI
-🔎 Working with vector databases and semantic search
-⚡ Building asynchronous AI workflows
-🚀 Continuously experimenting with modern AI technologies
-🤝 Open to collaboration on interesting AI engineering projects
-⚡ Currently Exploring
-🤖 Advanced Agentic AI architectures
-🧠 Multi-agent systems
-🔎 Advanced RAG & retrieval optimization
-🛠️ LLM evaluation & observability
-⚡ Scalable AI infrastructure
-🔐 Production-ready AI systems
-📫 Let's Connect
+```
+
+---
+
+# 📊 GitHub Activity
+
+- 🤖 Building **Generative AI & Agentic AI applications**
+- 🧠 Exploring **LLMs, RAG and AI Agents**
+- 🐍 Developing AI backends with **Python & FastAPI**
+- 🔎 Working with **vector databases and semantic search**
+- ⚡ Building asynchronous AI workflows
+- 🚀 Continuously experimenting with modern AI technologies
+- 🤝 Open to collaboration on interesting AI engineering projects
+
+---
+
+# ⚡ Currently Exploring
+
+- 🤖 Advanced Agentic AI architectures
+- 🧠 Multi-agent systems
+- 🔎 Advanced RAG & retrieval optimization
+- 🛠️ LLM evaluation & observability
+- ⚡ Scalable AI infrastructure
+- 🔐 Production-ready AI systems
+
+---
+
+# 📫 Let's Connect
 
 I'm interested in collaborating on:
 
-Generative AI · LLM Applications · AI Agents · RAG · AI Automation ·
-Intelligent Assistants · Python Backend · AI SaaS
+**Generative AI · LLM Applications · AI Agents · RAG · AI Automation ·  
+Intelligent Assistants · Python Backend · AI SaaS**
 
-<p align="center"> <b>🚀 Build. Experiment. Deploy. Repeat.</b> </p> <!-- 🌊 Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" /> </p> ```
+<p align="center">
+  <b>🚀 Build. Experiment. Deploy. Repeat.</b>
+</p>
+
+<!-- 🌊 Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+</p>
