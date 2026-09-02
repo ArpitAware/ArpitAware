@@ -17,7 +17,7 @@ Hi, I'm **Arpit Aware**, an **AI Engineer** focused on building production-grade
 
 - 📍 Based in **Indore, Madhya Pradesh, India**
 - 🤖 AI Engineer specializing in **Generative AI, LLMs, RAG & Agentic AI**
-- 🐍 Strong focus on **Python & backend AI engineering**
+- 🐍 Strong focus on **Python & backend AI engineering for scalable projects**
 - 🧠 Experienced with **LangChain, LangGraph & LLM integrations**
 - 🔎 Building intelligent systems using **RAG, semantic search & vector databases**
 - ⚡ Experienced in asynchronous AI workflows using **Celery, Redis & AsyncIO**
