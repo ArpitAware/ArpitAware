@@ -150,11 +150,11 @@ Hi, I'm **Arpit Aware**, an **AI Engineer** focused on building production-grade
 
 # 🚀 Featured AI Projects
 
-## 🤖 Production AI Assistant for US-Based Client
+## 🤖 Production AI Assistant 
 
 **Python · FastAPI · LangChain · LangGraph · SQLAlchemy · LLMs · RAG**
 
-Production AI assistant developed for a **US-based client**.
+Production AI assistant developed
 
 - Improved conversational accuracy and response quality
 - Optimized AI workflows and retrieval pipelines
